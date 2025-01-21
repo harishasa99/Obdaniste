@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "RE6knelkh4mz7rfa7JKn1b+0efvjkMyMhDsmAbSHp4k=",
+  "Source": "ChildService",
+  "BasePath": "_content/ChildService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

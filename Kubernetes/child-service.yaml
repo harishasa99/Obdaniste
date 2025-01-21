@@ -1,0 +1,33 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: child-service
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: child-service
+  template:
+    metadata:
+      labels:
+        app: child-service
+    spec:
+      containers:
+        - name: child-service
+          image: haharis23/child-service:latest
+          imagePullPolicy: Always
+          ports:
+            - containerPort: 8080
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: child-service
+spec:
+  selector:
+    app: child-service
+  ports:
+    - protocol: TCP
+      port: 8080
+      targetPort: 8080
+  type: ClusterIP

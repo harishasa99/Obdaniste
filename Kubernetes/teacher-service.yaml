@@ -1,0 +1,42 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: teacher-service
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: teacher-service
+  template:
+    metadata:
+      labels:
+        app: teacher-service
+    spec:
+      containers:
+        - name: teacher-service
+          image: haharis23/teacher-service:latest
+          imagePullPolicy: Always
+          ports:
+            - containerPort: 8080
+          env:
+            - name: DB_USER
+              value: "root"
+            - name: DB_PASSWORD
+              value: "haris123"
+            - name: DB_HOST
+              value: "mysql"
+            - name: DB_NAME
+              value: "vaspitac_db"
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: teacher-service
+spec:
+  selector:
+    app: teacher-service
+  ports:
+    - protocol: TCP
+      port: 8080
+      targetPort: 8080
+  type: ClusterIP

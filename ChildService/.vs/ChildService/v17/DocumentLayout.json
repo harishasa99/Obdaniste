@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\Obdaniste\\ChildService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4051D3CA-5673-45D0-8064-C75A3C9FB64A}|ChildService\\ChildService.csproj|c:\\users\\administrator\\desktop\\obdaniste\\childservice\\childservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4051D3CA-5673-45D0-8064-C75A3C9FB64A}|ChildService\\ChildService.csproj|solutionrelative:childservice\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4051D3CA-5673-45D0-8064-C75A3C9FB64A}|ChildService\\ChildService.csproj|c:\\users\\administrator\\desktop\\obdaniste\\childservice\\childservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4051D3CA-5673-45D0-8064-C75A3C9FB64A}|ChildService\\ChildService.csproj|solutionrelative:childservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4051D3CA-5673-45D0-8064-C75A3C9FB64A}|ChildService\\ChildService.csproj|c:\\users\\administrator\\desktop\\obdaniste\\childservice\\childservice\\services\\childdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4051D3CA-5673-45D0-8064-C75A3C9FB64A}|ChildService\\ChildService.csproj|solutionrelative:childservice\\services\\childdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4051D3CA-5673-45D0-8064-C75A3C9FB64A}|ChildService\\ChildService.csproj|c:\\users\\administrator\\desktop\\obdaniste\\childservice\\childservice\\controllers\\childcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4051D3CA-5673-45D0-8064-C75A3C9FB64A}|ChildService\\ChildService.csproj|solutionrelative:childservice\\controllers\\childcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4051D3CA-5673-45D0-8064-C75A3C9FB64A}|ChildService\\ChildService.csproj|c:\\users\\administrator\\desktop\\obdaniste\\childservice\\childservice\\models\\child.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4051D3CA-5673-45D0-8064-C75A3C9FB64A}|ChildService\\ChildService.csproj|solutionrelative:childservice\\models\\child.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4051D3CA-5673-45D0-8064-C75A3C9FB64A}|ChildService\\ChildService.csproj|c:\\users\\administrator\\desktop\\obdaniste\\childservice\\childservice\\childservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4051D3CA-5673-45D0-8064-C75A3C9FB64A}|ChildService\\ChildService.csproj|solutionrelative:childservice\\childservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4051D3CA-5673-45D0-8064-C75A3C9FB64A}|ChildService\\ChildService.csproj|c:\\users\\administrator\\desktop\\obdaniste\\childservice\\childservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{4051D3CA-5673-45D0-8064-C75A3C9FB64A}|ChildService\\ChildService.csproj|solutionrelative:childservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 299,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ChildService.csproj",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Obdaniste\\ChildService\\ChildService\\ChildService.csproj",
+              "RelativeDocumentMoniker": "ChildService\\ChildService.csproj",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Obdaniste\\ChildService\\ChildService\\ChildService.csproj",
+              "RelativeToolTip": "ChildService\\ChildService.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-20T14:25:34.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Obdaniste\\ChildService\\ChildService\\Dockerfile",
+              "RelativeDocumentMoniker": "ChildService\\Dockerfile",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Obdaniste\\ChildService\\ChildService\\Dockerfile",
+              "RelativeToolTip": "ChildService\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-03T15:42:14.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Obdaniste\\ChildService\\ChildService\\appsettings.json",
+              "RelativeDocumentMoniker": "ChildService\\appsettings.json",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Obdaniste\\ChildService\\ChildService\\appsettings.json",
+              "RelativeToolTip": "ChildService\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-31T17:52:24.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Obdaniste\\ChildService\\ChildService\\Program.cs",
+              "RelativeDocumentMoniker": "ChildService\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Obdaniste\\ChildService\\ChildService\\Program.cs",
+              "RelativeToolTip": "ChildService\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T17:46:40.168Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ChildController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Obdaniste\\ChildService\\ChildService\\Controllers\\ChildController.cs",
+              "RelativeDocumentMoniker": "ChildService\\Controllers\\ChildController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Obdaniste\\ChildService\\ChildService\\Controllers\\ChildController.cs",
+              "RelativeToolTip": "ChildService\\Controllers\\ChildController.cs",
+              "ViewState": "AQIAABMAAABAZ2ZmZmYkwCEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T17:28:20.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ChildDataService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Obdaniste\\ChildService\\ChildService\\Services\\ChildDataService.cs",
+              "RelativeDocumentMoniker": "ChildService\\Services\\ChildDataService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Obdaniste\\ChildService\\ChildService\\Services\\ChildDataService.cs",
+              "RelativeToolTip": "ChildService\\Services\\ChildDataService.cs",
+              "ViewState": "AQIAAAAAAABAzczMzMwnwBQAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T14:56:42.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Child.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Obdaniste\\ChildService\\ChildService\\Models\\Child.cs",
+              "RelativeDocumentMoniker": "ChildService\\Models\\Child.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Obdaniste\\ChildService\\ChildService\\Models\\Child.cs",
+              "RelativeToolTip": "ChildService\\Models\\Child.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T14:54:28.833Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
