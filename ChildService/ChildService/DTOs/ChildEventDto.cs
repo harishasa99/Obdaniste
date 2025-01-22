@@ -6,6 +6,6 @@
         public string Name { get; set; }
         public int Age { get; set; }
         public string Group { get; set; }
-        public string EventType { get; set; } // Može biti "ChildCreated", "ChildUpdated", "ChildDeleted"
+        public string EventType { get; set; } 
     }
 }

@@ -20,7 +20,7 @@ namespace APIGateway.Controllers
             _httpClient = httpClient;
         }
 
-        // GET /api/events
+        
         [HttpGet]
         public async Task<IActionResult> GetEvents()
         {
@@ -33,7 +33,7 @@ namespace APIGateway.Controllers
             return Ok(events);
         }
 
-        // GET /api/events/{id}
+        
         [HttpGet("{id}")]
         public async Task<IActionResult> GetEventById(int id)
         {
@@ -46,7 +46,7 @@ namespace APIGateway.Controllers
             return Ok(eventItem);
         }
 
-        // POST /api/events
+        
         [HttpPost]
         public async Task<IActionResult> CreateEvent([FromBody] Event newEvent)
         {
@@ -59,7 +59,7 @@ namespace APIGateway.Controllers
             return CreatedAtAction(nameof(GetEventById), new { id = createdEvent.Id }, createdEvent);
         }
 
-        // PUT /api/events/{id}
+        
         [HttpPut("{id}")]
         public async Task<IActionResult> UpdateEvent(int id, [FromBody] Event updatedEvent)
         {
@@ -69,7 +69,7 @@ namespace APIGateway.Controllers
             return NoContent();
         }
 
-        // DELETE /api/events/{id}
+        
         [HttpDelete("{id}")]
         public async Task<IActionResult> DeleteEvent(int id)
         {

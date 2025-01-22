@@ -8,16 +8,16 @@ using System.Text;
 
 var builder = WebApplication.CreateBuilder(args);
 
-// Učitaj URL-ove servisa
+
 builder.Services.Configure<Urls>(builder.Configuration.GetSection("Urls"));
 
-// Dodaj HttpClient za međuservisnu komunikaciju
+
 builder.Services.AddHttpClient();
 
-// Dodaj JWT autentifikaciju
-var secretKey = "eqomOaEvtJ3Vn3LxnAyHvrcpNH4LQL7fbhrSqehXMeo="; // Tvoj tajni ključ
-var issuer = "http://localhost:8080"; // Tvoj issuer
-var audience = "api-users"; // Tvoja publika
+
+var secretKey = "eqomOaEvtJ3Vn3LxnAyHvrcpNH4LQL7fbhrSqehXMeo="; 
+var issuer = "http://localhost:8080"; 
+var audience = "api-users"; 
 
 builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
     .AddJwtBearer(options =>
@@ -34,11 +34,11 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
         };
     });
 
-// Dodaj kontrolere i Swagger
+
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 
-// Swagger sa podrškom za JWT autentifikaciju
+
 builder.Services.AddSwaggerGen(options =>
 {
     options.AddSecurityDefinition("Bearer", new OpenApiSecurityScheme
@@ -69,7 +69,7 @@ builder.Services.AddSwaggerGen(options =>
 
 var app = builder.Build();
 
-// Swagger za razvojnu okolinu
+
 if (app.Environment.IsDevelopment() || app.Environment.IsStaging() || app.Environment.IsProduction())
 {
     app.UseSwagger();
@@ -78,11 +78,11 @@ if (app.Environment.IsDevelopment() || app.Environment.IsStaging() || app.Enviro
 
 app.UseHttpsRedirection();
 
-// Uključi autentifikaciju i autorizaciju
+
 app.UseAuthentication();
 app.UseAuthorization();
 
-// Ruta za generisanje JWT tokena
+
 app.MapPost("/generate-token", (string username) =>
 {
     if (string.IsNullOrWhiteSpace(username))
@@ -99,7 +99,7 @@ app.MapPost("/generate-token", (string username) =>
         {
             new Claim(ClaimTypes.Name, username)
         }),
-        Expires = DateTime.UtcNow.AddHours(1), // Vreme trajanja tokena
+        Expires = DateTime.UtcNow.AddHours(1), 
         Issuer = issuer,
         Audience = audience,
         SigningCredentials = new SigningCredentials(new SymmetricSecurityKey(key), SecurityAlgorithms.HmacSha256Signature)
@@ -111,6 +111,6 @@ app.MapPost("/generate-token", (string username) =>
     return Results.Ok(new { Token = jwt });
 });
 
-// Mapiraj kontrolere
+
 app.MapControllers();
 app.Run();

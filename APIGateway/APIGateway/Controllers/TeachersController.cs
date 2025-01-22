@@ -18,7 +18,7 @@ public class TeachersController : ControllerBase
         _teacherServiceUrl = options.Value.TeacherService;
     }
 
-    // GET: api/teachers
+    
     [HttpGet]
     public async Task<IActionResult> GetTeachers()
     {
@@ -32,7 +32,7 @@ public class TeachersController : ControllerBase
         return Ok(teachers);
     }
 
-    // GET: api/teachers/{id}
+    
     [HttpGet("{id}")]
     public async Task<IActionResult> GetTeacherById(int id)
     {
@@ -46,7 +46,7 @@ public class TeachersController : ControllerBase
         return Ok(teacher);
     }
 
-    // POST: api/teachers
+    
     [HttpPost]
     public async Task<IActionResult> AddTeacher([FromBody] Teacher teacher)
     {
@@ -60,7 +60,7 @@ public class TeachersController : ControllerBase
         return Created($"{_teacherServiceUrl}/users/{createdTeacher.Id}", createdTeacher);
     }
 
-    // PUT: api/teachers/{id}
+    
     [HttpPut("{id}")]
     public async Task<IActionResult> UpdateTeacher(int id, [FromBody] Teacher teacher)
     {
@@ -78,7 +78,7 @@ public class TeachersController : ControllerBase
         return NoContent();
     }
 
-    // DELETE: api/teachers/{id}
+    
     [HttpDelete("{id}")]
     public async Task<IActionResult> DeleteTeacher(int id)
     {

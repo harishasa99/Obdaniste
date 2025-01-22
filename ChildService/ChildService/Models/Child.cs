@@ -2,7 +2,7 @@
 {
     public class Child
     {
-        // Umesto ObjectId, koristimo int
+        
         public int Id { get; set; }
 
         public string Name { get; set; }

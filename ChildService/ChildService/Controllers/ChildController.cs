@@ -19,7 +19,7 @@ namespace ChildService.Controllers
             _messageBroker = messageBroker;
         }
 
-        // GET /api/child
+      
         [HttpGet]
         public async Task<ActionResult<List<ChildReadDto>>> GetAll()
         {
@@ -35,7 +35,6 @@ namespace ChildService.Controllers
             return Ok(childrenDto);
         }
 
-        // GET /api/child/{id}
         [HttpGet("{id}")]
         public async Task<ActionResult<ChildReadDto>> Get(int id)
         {
@@ -54,7 +53,7 @@ namespace ChildService.Controllers
             return Ok(childDto);
         }
 
-        // POST /api/child
+       
         [HttpPost]
         public async Task<IActionResult> Post([FromBody] ChildCreateDto childDto)
         {
@@ -70,7 +69,6 @@ namespace ChildService.Controllers
 
             await _childDataService.CreateAsync(newChild);
 
-            // Kreiramo event za RabbitMQ
             var childEvent = new ChildEventDto
             {
                 Id = newChild.Id,
@@ -84,7 +82,7 @@ namespace ChildService.Controllers
             return CreatedAtAction(nameof(Get), new { id = newChild.Id }, newChild);
         }
 
-        // PUT /api/child/{id}
+        
         [HttpPut("{id}")]
         public async Task<IActionResult> Update(int id, [FromBody] ChildUpdateDto childDto)
         {
@@ -101,7 +99,7 @@ namespace ChildService.Controllers
 
             await _childDataService.UpdateAsync(id, existingChild);
 
-            // Kreiramo event za RabbitMQ
+            
             var childEvent = new ChildEventDto
             {
                 Id = existingChild.Id,
@@ -115,7 +113,7 @@ namespace ChildService.Controllers
             return NoContent();
         }
 
-        // DELETE /api/child/{id}
+       
         [HttpDelete("{id}")]
         public async Task<IActionResult> Delete(int id)
         {
@@ -125,7 +123,7 @@ namespace ChildService.Controllers
 
             await _childDataService.RemoveAsync(id);
 
-            // Kreiramo event za RabbitMQ
+            
             var childEvent = new ChildEventDto
             {
                 Id = id,

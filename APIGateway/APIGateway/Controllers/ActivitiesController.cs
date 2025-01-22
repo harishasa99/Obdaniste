@@ -19,7 +19,7 @@ public class ActivitiesController : ControllerBase
         _activityServiceUrl = options.Value.ActivityService;
     }
 
-    // GET: api/activities
+    
     [HttpGet]
     public async Task<IActionResult> GetActivities()
     {
@@ -33,7 +33,7 @@ public class ActivitiesController : ControllerBase
         return Ok(activities);
     }
 
-    // GET: api/activities/{id}
+    
     [HttpGet("{id}")]
     public async Task<IActionResult> GetActivityById(int id)
     {
@@ -47,7 +47,7 @@ public class ActivitiesController : ControllerBase
         return Ok(activity);
     }
 
-    // POST: api/activities
+    
     [HttpPost]
     public async Task<IActionResult> AddActivity([FromBody] Activity activity)
     {
@@ -61,7 +61,7 @@ public class ActivitiesController : ControllerBase
         return Created($"{_activityServiceUrl}/api/activities/{createdActivity.Id}", createdActivity);
     }
 
-    // PUT: api/activities/{id}
+    
     [HttpPut("{id}")]
     public async Task<IActionResult> UpdateActivity(int id, [FromBody] Activity activity)
     {
@@ -79,7 +79,7 @@ public class ActivitiesController : ControllerBase
         return NoContent();
     }
 
-    // DELETE: api/activities/{id}
+    
     [HttpDelete("{id}")]
     public async Task<IActionResult> DeleteActivity(int id)
     {

@@ -3,6 +3,34 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\Obdaniste\\ActivityService\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C6A3D7EB-DE07-431A-A5C7-9619C4E8C78A}|ActivityService\\ActivityService.csproj|c:\\users\\administrator\\desktop\\obdaniste\\activityservice\\activityservice\\controllers\\activitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6A3D7EB-DE07-431A-A5C7-9619C4E8C78A}|ActivityService\\ActivityService.csproj|solutionrelative:activityservice\\controllers\\activitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A3D7EB-DE07-431A-A5C7-9619C4E8C78A}|ActivityService\\ActivityService.csproj|c:\\users\\administrator\\desktop\\obdaniste\\activityservice\\activityservice\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6A3D7EB-DE07-431A-A5C7-9619C4E8C78A}|ActivityService\\ActivityService.csproj|solutionrelative:activityservice\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A3D7EB-DE07-431A-A5C7-9619C4E8C78A}|ActivityService\\ActivityService.csproj|c:\\users\\administrator\\desktop\\obdaniste\\activityservice\\activityservice\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6A3D7EB-DE07-431A-A5C7-9619C4E8C78A}|ActivityService\\ActivityService.csproj|solutionrelative:activityservice\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A3D7EB-DE07-431A-A5C7-9619C4E8C78A}|ActivityService\\ActivityService.csproj|c:\\users\\administrator\\desktop\\obdaniste\\activityservice\\activityservice\\models\\activity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6A3D7EB-DE07-431A-A5C7-9619C4E8C78A}|ActivityService\\ActivityService.csproj|solutionrelative:activityservice\\models\\activity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A3D7EB-DE07-431A-A5C7-9619C4E8C78A}|ActivityService\\ActivityService.csproj|c:\\users\\administrator\\desktop\\obdaniste\\activityservice\\activityservice\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6A3D7EB-DE07-431A-A5C7-9619C4E8C78A}|ActivityService\\ActivityService.csproj|solutionrelative:activityservice\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A3D7EB-DE07-431A-A5C7-9619C4E8C78A}|ActivityService\\ActivityService.csproj|c:\\users\\administrator\\desktop\\obdaniste\\activityservice\\activityservice\\services\\activitydataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6A3D7EB-DE07-431A-A5C7-9619C4E8C78A}|ActivityService\\ActivityService.csproj|solutionrelative:activityservice\\services\\activitydataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6A3D7EB-DE07-431A-A5C7-9619C4E8C78A}|ActivityService\\ActivityService.csproj|c:\\users\\administrator\\desktop\\obdaniste\\activityservice\\activityservice\\services\\eventdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6A3D7EB-DE07-431A-A5C7-9619C4E8C78A}|ActivityService\\ActivityService.csproj|solutionrelative:activityservice\\services\\eventdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C6A3D7EB-DE07-431A-A5C7-9619C4E8C78A}|ActivityService\\ActivityService.csproj|c:\\users\\administrator\\desktop\\obdaniste\\activityservice\\activityservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C6A3D7EB-DE07-431A-A5C7-9619C4E8C78A}|ActivityService\\ActivityService.csproj|solutionrelative:activityservice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,34 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C6A3D7EB-DE07-431A-A5C7-9619C4E8C78A}|ActivityService\\ActivityService.csproj|c:\\users\\administrator\\desktop\\obdaniste\\activityservice\\activityservice\\activityservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
       "RelativeMoniker": "D:0:0:{C6A3D7EB-DE07-431A-A5C7-9619C4E8C78A}|ActivityService\\ActivityService.csproj|solutionrelative:activityservice\\activityservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6A3D7EB-DE07-431A-A5C7-9619C4E8C78A}|ActivityService\\ActivityService.csproj|c:\\users\\administrator\\desktop\\obdaniste\\activityservice\\activityservice\\services\\eventdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6A3D7EB-DE07-431A-A5C7-9619C4E8C78A}|ActivityService\\ActivityService.csproj|solutionrelative:activityservice\\services\\eventdataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6A3D7EB-DE07-431A-A5C7-9619C4E8C78A}|ActivityService\\ActivityService.csproj|c:\\users\\administrator\\desktop\\obdaniste\\activityservice\\activityservice\\services\\activitydataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6A3D7EB-DE07-431A-A5C7-9619C4E8C78A}|ActivityService\\ActivityService.csproj|solutionrelative:activityservice\\services\\activitydataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6A3D7EB-DE07-431A-A5C7-9619C4E8C78A}|ActivityService\\ActivityService.csproj|c:\\users\\administrator\\desktop\\obdaniste\\activityservice\\activityservice\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6A3D7EB-DE07-431A-A5C7-9619C4E8C78A}|ActivityService\\ActivityService.csproj|solutionrelative:activityservice\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6A3D7EB-DE07-431A-A5C7-9619C4E8C78A}|ActivityService\\ActivityService.csproj|c:\\users\\administrator\\desktop\\obdaniste\\activityservice\\activityservice\\models\\activity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6A3D7EB-DE07-431A-A5C7-9619C4E8C78A}|ActivityService\\ActivityService.csproj|solutionrelative:activityservice\\models\\activity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6A3D7EB-DE07-431A-A5C7-9619C4E8C78A}|ActivityService\\ActivityService.csproj|c:\\users\\administrator\\desktop\\obdaniste\\activityservice\\activityservice\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6A3D7EB-DE07-431A-A5C7-9619C4E8C78A}|ActivityService\\ActivityService.csproj|solutionrelative:activityservice\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6A3D7EB-DE07-431A-A5C7-9619C4E8C78A}|ActivityService\\ActivityService.csproj|c:\\users\\administrator\\desktop\\obdaniste\\activityservice\\activityservice\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6A3D7EB-DE07-431A-A5C7-9619C4E8C78A}|ActivityService\\ActivityService.csproj|solutionrelative:activityservice\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C6A3D7EB-DE07-431A-A5C7-9619C4E8C78A}|ActivityService\\ActivityService.csproj|c:\\users\\administrator\\desktop\\obdaniste\\activityservice\\activityservice\\controllers\\activitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C6A3D7EB-DE07-431A-A5C7-9619C4E8C78A}|ActivityService\\ActivityService.csproj|solutionrelative:activityservice\\controllers\\activitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C6A3D7EB-DE07-431A-A5C7-9619C4E8C78A}|ActivityService\\ActivityService.csproj|c:\\users\\administrator\\desktop\\obdaniste\\activityservice\\activityservice\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -62,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 299,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,31 +86,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ActivityDataService.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Obdaniste\\ActivityService\\ActivityService\\Services\\ActivityDataService.cs",
-              "RelativeDocumentMoniker": "ActivityService\\Services\\ActivityDataService.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Obdaniste\\ActivityService\\ActivityService\\Services\\ActivityDataService.cs",
-              "RelativeToolTip": "ActivityService\\Services\\ActivityDataService.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAowDAAAAAAAAAA",
+              "DocumentIndex": 1,
+              "Title": "EventController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Obdaniste\\ActivityService\\ActivityService\\Controllers\\EventController.cs",
+              "RelativeDocumentMoniker": "ActivityService\\Controllers\\EventController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Obdaniste\\ActivityService\\ActivityService\\Controllers\\EventController.cs",
+              "RelativeToolTip": "ActivityService\\Controllers\\EventController.cs",
+              "ViewState": "AQIAABMAAAAANjMzMzMLwDYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T14:56:46.599Z"
+              "WhenOpened": "2025-01-02T13:43:42.02Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Activity.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Obdaniste\\ActivityService\\ActivityService\\Models\\Activity.cs",
-              "RelativeDocumentMoniker": "ActivityService\\Models\\Activity.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Obdaniste\\ActivityService\\ActivityService\\Models\\Activity.cs",
-              "RelativeToolTip": "ActivityService\\Models\\Activity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "ActivityController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Obdaniste\\ActivityService\\ActivityService\\Controllers\\ActivityController.cs",
+              "RelativeDocumentMoniker": "ActivityService\\Controllers\\ActivityController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Obdaniste\\ActivityService\\ActivityService\\Controllers\\ActivityController.cs",
+              "RelativeToolTip": "ActivityService\\Controllers\\ActivityController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T13:30:40.867Z"
+              "WhenOpened": "2025-01-02T13:40:26.965Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Obdaniste\\ActivityService\\ActivityService\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "ActivityService\\Data\\AppDbContext.cs",
@@ -122,7 +123,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
+              "Title": "Activity.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Obdaniste\\ActivityService\\ActivityService\\Models\\Activity.cs",
+              "RelativeDocumentMoniker": "ActivityService\\Models\\Activity.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Obdaniste\\ActivityService\\ActivityService\\Models\\Activity.cs",
+              "RelativeToolTip": "ActivityService\\Models\\Activity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T13:30:40.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Event.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Obdaniste\\ActivityService\\ActivityService\\Models\\Event.cs",
               "RelativeDocumentMoniker": "ActivityService\\Models\\Event.cs",
@@ -134,32 +147,43 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
+              "Title": "ActivityDataService.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Obdaniste\\ActivityService\\ActivityService\\Services\\ActivityDataService.cs",
+              "RelativeDocumentMoniker": "ActivityService\\Services\\ActivityDataService.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Obdaniste\\ActivityService\\ActivityService\\Services\\ActivityDataService.cs",
+              "RelativeToolTip": "ActivityService\\Services\\ActivityDataService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T14:56:46.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "EventDataService.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Obdaniste\\ActivityService\\ActivityService\\Services\\EventDataService.cs",
               "RelativeDocumentMoniker": "ActivityService\\Services\\EventDataService.cs",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\Obdaniste\\ActivityService\\ActivityService\\Services\\EventDataService.cs",
               "RelativeToolTip": "ActivityService\\Services\\EventDataService.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAowDAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-03T14:58:30.375Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Obdaniste\\ActivityService\\ActivityService\\appsettings.json",
-              "RelativeDocumentMoniker": "ActivityService\\appsettings.json",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Obdaniste\\ActivityService\\ActivityService\\appsettings.json",
-              "RelativeToolTip": "ActivityService\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-20T20:09:25.736Z",
-              "EditorCaption": ""
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Obdaniste\\ActivityService\\ActivityService\\Program.cs",
+              "RelativeDocumentMoniker": "ActivityService\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Obdaniste\\ActivityService\\ActivityService\\Program.cs",
+              "RelativeToolTip": "ActivityService\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-02T13:36:43.829Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 9,
               "Title": "ActivityService.csproj",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Obdaniste\\ActivityService\\ActivityService\\ActivityService.csproj",
               "RelativeDocumentMoniker": "ActivityService\\ActivityService.csproj",
@@ -171,40 +195,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Obdaniste\\ActivityService\\ActivityService\\Program.cs",
-              "RelativeDocumentMoniker": "ActivityService\\Program.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Obdaniste\\ActivityService\\ActivityService\\Program.cs",
-              "RelativeToolTip": "ActivityService\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAvAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T13:36:43.829Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "EventController.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Obdaniste\\ActivityService\\ActivityService\\Controllers\\EventController.cs",
-              "RelativeDocumentMoniker": "ActivityService\\Controllers\\EventController.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Obdaniste\\ActivityService\\ActivityService\\Controllers\\EventController.cs",
-              "RelativeToolTip": "ActivityService\\Controllers\\EventController.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAowDYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T13:43:42.02Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ActivityController.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Obdaniste\\ActivityService\\ActivityService\\Controllers\\ActivityController.cs",
-              "RelativeDocumentMoniker": "ActivityService\\Controllers\\ActivityController.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Obdaniste\\ActivityService\\ActivityService\\Controllers\\ActivityController.cs",
-              "RelativeToolTip": "ActivityService\\Controllers\\ActivityController.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAqwDYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-02T13:40:26.965Z"
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Obdaniste\\ActivityService\\ActivityService\\appsettings.json",
+              "RelativeDocumentMoniker": "ActivityService\\appsettings.json",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Obdaniste\\ActivityService\\ActivityService\\appsettings.json",
+              "RelativeToolTip": "ActivityService\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-20T20:09:25.736Z"
             },
             {
               "$type": "Document",
