@@ -36,3 +36,6 @@ C:\Users\Administrator\Desktop\Obdaniste\ChildService\ChildService\obj\Debug\net
 C:\Users\Administrator\Desktop\Obdaniste\ChildService\ChildService\obj\Debug\net8.0\ChildService.pdb
 C:\Users\Administrator\Desktop\Obdaniste\ChildService\ChildService\obj\Debug\net8.0\ChildService.genruntimeconfig.cache
 C:\Users\Administrator\Desktop\Obdaniste\ChildService\ChildService\obj\Debug\net8.0\ref\ChildService.dll
+C:\Users\Administrator\Desktop\Obdaniste\ChildService\ChildService\obj\Debug\net8.0\ChildService.sourcelink.json
+C:\Users\Administrator\Desktop\Obdaniste\ChildService\ChildService\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Administrator\Desktop\Obdaniste\ChildService\ChildService\bin\Debug\net8.0\RabbitMQ.Client.dll

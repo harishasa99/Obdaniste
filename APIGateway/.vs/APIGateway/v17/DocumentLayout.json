@@ -7,52 +7,56 @@
       "RelativeMoniker": "D:0:0:{0A2F75E0-DCE9-4B6F-868F-480233B761E6}|APIGateway\\APIGateway.csproj|solutionrelative:apigateway\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A2F75E0-DCE9-4B6F-868F-480233B761E6}|APIGateway\\APIGateway.csproj|c:\\users\\administrator\\desktop\\obdaniste\\apigateway\\apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A2F75E0-DCE9-4B6F-868F-480233B761E6}|APIGateway\\APIGateway.csproj|solutionrelative:apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0A2F75E0-DCE9-4B6F-868F-480233B761E6}|APIGateway\\APIGateway.csproj|c:\\users\\administrator\\desktop\\obdaniste\\apigateway\\apigateway\\apigateway.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{0A2F75E0-DCE9-4B6F-868F-480233B761E6}|APIGateway\\APIGateway.csproj|solutionrelative:apigateway\\apigateway.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0A2F75E0-DCE9-4B6F-868F-480233B761E6}|APIGateway\\APIGateway.csproj|c:\\users\\administrator\\desktop\\obdaniste\\apigateway\\apigateway\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A2F75E0-DCE9-4B6F-868F-480233B761E6}|APIGateway\\APIGateway.csproj|solutionrelative:apigateway\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0A2F75E0-DCE9-4B6F-868F-480233B761E6}|APIGateway\\APIGateway.csproj|c:\\users\\administrator\\desktop\\obdaniste\\apigateway\\apigateway\\controllers\\childrencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0A2F75E0-DCE9-4B6F-868F-480233B761E6}|APIGateway\\APIGateway.csproj|solutionrelative:apigateway\\controllers\\childrencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0A2F75E0-DCE9-4B6F-868F-480233B761E6}|APIGateway\\APIGateway.csproj|c:\\users\\administrator\\desktop\\obdaniste\\apigateway\\apigateway\\controllers\\activitiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A2F75E0-DCE9-4B6F-868F-480233B761E6}|APIGateway\\APIGateway.csproj|solutionrelative:apigateway\\controllers\\activitiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0A2F75E0-DCE9-4B6F-868F-480233B761E6}|APIGateway\\APIGateway.csproj|c:\\users\\administrator\\desktop\\obdaniste\\apigateway\\apigateway\\urls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0A2F75E0-DCE9-4B6F-868F-480233B761E6}|APIGateway\\APIGateway.csproj|solutionrelative:apigateway\\urls.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A2F75E0-DCE9-4B6F-868F-480233B761E6}|APIGateway\\APIGateway.csproj|c:\\users\\administrator\\desktop\\obdaniste\\apigateway\\apigateway\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{0A2F75E0-DCE9-4B6F-868F-480233B761E6}|APIGateway\\APIGateway.csproj|solutionrelative:apigateway\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{0A2F75E0-DCE9-4B6F-868F-480233B761E6}|APIGateway\\APIGateway.csproj|c:\\users\\administrator\\desktop\\obdaniste\\apigateway\\apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A2F75E0-DCE9-4B6F-868F-480233B761E6}|APIGateway\\APIGateway.csproj|solutionrelative:apigateway\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A2F75E0-DCE9-4B6F-868F-480233B761E6}|APIGateway\\APIGateway.csproj|c:\\users\\administrator\\desktop\\obdaniste\\apigateway\\apigateway\\controllers\\teacherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A2F75E0-DCE9-4B6F-868F-480233B761E6}|APIGateway\\APIGateway.csproj|solutionrelative:apigateway\\controllers\\teacherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0A2F75E0-DCE9-4B6F-868F-480233B761E6}|APIGateway\\APIGateway.csproj|c:\\users\\administrator\\desktop\\obdaniste\\apigateway\\apigateway\\apigateway.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0A2F75E0-DCE9-4B6F-868F-480233B761E6}|APIGateway\\APIGateway.csproj|solutionrelative:apigateway\\apigateway.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0A2F75E0-DCE9-4B6F-868F-480233B761E6}|APIGateway\\APIGateway.csproj|c:\\users\\administrator\\desktop\\obdaniste\\apigateway\\apigateway\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0A2F75E0-DCE9-4B6F-868F-480233B761E6}|APIGateway\\APIGateway.csproj|solutionrelative:apigateway\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A2F75E0-DCE9-4B6F-868F-480233B761E6}|APIGateway\\APIGateway.csproj|c:\\users\\administrator\\desktop\\obdaniste\\apigateway\\apigateway\\models\\child.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A2F75E0-DCE9-4B6F-868F-480233B761E6}|APIGateway\\APIGateway.csproj|solutionrelative:apigateway\\models\\child.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{0A2F75E0-DCE9-4B6F-868F-480233B761E6}|APIGateway\\APIGateway.csproj|c:\\users\\administrator\\desktop\\obdaniste\\apigateway\\apigateway\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0A2F75E0-DCE9-4B6F-868F-480233B761E6}|APIGateway\\APIGateway.csproj|solutionrelative:apigateway\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{0A2F75E0-DCE9-4B6F-868F-480233B761E6}|APIGateway\\APIGateway.csproj|c:\\users\\administrator\\desktop\\obdaniste\\apigateway\\apigateway\\models\\child.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A2F75E0-DCE9-4B6F-868F-480233B761E6}|APIGateway\\APIGateway.csproj|solutionrelative:apigateway\\models\\child.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{0A2F75E0-DCE9-4B6F-868F-480233B761E6}|APIGateway\\APIGateway.csproj|c:\\users\\administrator\\desktop\\obdaniste\\apigateway\\apigateway\\models\\activity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0A2F75E0-DCE9-4B6F-868F-480233B761E6}|APIGateway\\APIGateway.csproj|solutionrelative:apigateway\\models\\activity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A2F75E0-DCE9-4B6F-868F-480233B761E6}|APIGateway\\APIGateway.csproj|c:\\users\\administrator\\desktop\\obdaniste\\apigateway\\apigateway\\controllers\\teacherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A2F75E0-DCE9-4B6F-868F-480233B761E6}|APIGateway\\APIGateway.csproj|solutionrelative:apigateway\\controllers\\teacherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A2F75E0-DCE9-4B6F-868F-480233B761E6}|APIGateway\\APIGateway.csproj|c:\\users\\administrator\\desktop\\obdaniste\\apigateway\\apigateway\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A2F75E0-DCE9-4B6F-868F-480233B761E6}|APIGateway\\APIGateway.csproj|solutionrelative:apigateway\\controllers\\eventcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A2F75E0-DCE9-4B6F-868F-480233B761E6}|APIGateway\\APIGateway.csproj|c:\\users\\administrator\\desktop\\obdaniste\\apigateway\\apigateway\\controllers\\activitiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A2F75E0-DCE9-4B6F-868F-480233B761E6}|APIGateway\\APIGateway.csproj|solutionrelative:apigateway\\controllers\\activitiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A2F75E0-DCE9-4B6F-868F-480233B761E6}|APIGateway\\APIGateway.csproj|c:\\users\\administrator\\desktop\\obdaniste\\apigateway\\apigateway\\apigateway.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{0A2F75E0-DCE9-4B6F-868F-480233B761E6}|APIGateway\\APIGateway.csproj|solutionrelative:apigateway\\apigateway.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A2F75E0-DCE9-4B6F-868F-480233B761E6}|APIGateway\\APIGateway.csproj|c:\\users\\administrator\\desktop\\obdaniste\\apigateway\\apigateway\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{0A2F75E0-DCE9-4B6F-868F-480233B761E6}|APIGateway\\APIGateway.csproj|solutionrelative:apigateway\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,7 +66,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -86,111 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ActivitiesController.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Obdaniste\\APIGateway\\APIGateway\\Controllers\\ActivitiesController.cs",
-              "RelativeDocumentMoniker": "APIGateway\\Controllers\\ActivitiesController.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Obdaniste\\APIGateway\\APIGateway\\Controllers\\ActivitiesController.cs",
-              "RelativeToolTip": "APIGateway\\Controllers\\ActivitiesController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAABkAAABbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T16:16:32.002Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Obdaniste\\APIGateway\\APIGateway\\appsettings.json",
-              "RelativeDocumentMoniker": "APIGateway\\appsettings.json",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Obdaniste\\APIGateway\\APIGateway\\appsettings.json",
-              "RelativeToolTip": "APIGateway\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-01-05T16:08:56.532Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Obdaniste\\APIGateway\\APIGateway\\Program.cs",
-              "RelativeDocumentMoniker": "APIGateway\\Program.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Obdaniste\\APIGateway\\APIGateway\\Program.cs",
-              "RelativeToolTip": "APIGateway\\Program.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAAAAEwAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T16:09:38.956Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Urls.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Obdaniste\\APIGateway\\APIGateway\\Urls.cs",
-              "RelativeDocumentMoniker": "APIGateway\\Urls.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Obdaniste\\APIGateway\\APIGateway\\Urls.cs",
-              "RelativeToolTip": "APIGateway\\Urls.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T16:08:18.319Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Dockerfile",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Obdaniste\\APIGateway\\APIGateway\\Dockerfile",
-              "RelativeDocumentMoniker": "APIGateway\\Dockerfile",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Obdaniste\\APIGateway\\APIGateway\\Dockerfile",
-              "RelativeToolTip": "APIGateway\\Dockerfile",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-01-05T17:21:01.046Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "EventController.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Obdaniste\\APIGateway\\APIGateway\\Controllers\\EventController.cs",
-              "RelativeDocumentMoniker": "APIGateway\\Controllers\\EventController.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Obdaniste\\APIGateway\\APIGateway\\Controllers\\EventController.cs",
-              "RelativeToolTip": "APIGateway\\Controllers\\EventController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T16:44:17.337Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ChildrenController.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Obdaniste\\APIGateway\\APIGateway\\Controllers\\ChildrenController.cs",
-              "RelativeDocumentMoniker": "APIGateway\\Controllers\\ChildrenController.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Obdaniste\\APIGateway\\APIGateway\\Controllers\\ChildrenController.cs",
-              "RelativeToolTip": "APIGateway\\Controllers\\ChildrenController.cs",
-              "ViewState": "AQIAACwAAAAAAAAAAAAAAAgAAAALAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T16:25:31.353Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "APIGateway.http",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Obdaniste\\APIGateway\\APIGateway\\APIGateway.http",
-              "RelativeDocumentMoniker": "APIGateway\\APIGateway.http",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Obdaniste\\APIGateway\\APIGateway\\APIGateway.http",
-              "RelativeToolTip": "APIGateway\\APIGateway.http",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-01-05T18:29:59.614Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
               "Title": "Child.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Obdaniste\\APIGateway\\APIGateway\\Models\\Child.cs",
               "RelativeDocumentMoniker": "APIGateway\\Models\\Child.cs",
@@ -203,30 +103,30 @@
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "Teacher.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Obdaniste\\APIGateway\\APIGateway\\Models\\Teacher.cs",
-              "RelativeDocumentMoniker": "APIGateway\\Models\\Teacher.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Obdaniste\\APIGateway\\APIGateway\\Models\\Teacher.cs",
-              "RelativeToolTip": "APIGateway\\Models\\Teacher.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T16:12:13.26Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "TeachersController.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Obdaniste\\APIGateway\\APIGateway\\Controllers\\TeachersController.cs",
               "RelativeDocumentMoniker": "APIGateway\\Controllers\\TeachersController.cs",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\Obdaniste\\APIGateway\\APIGateway\\Controllers\\TeachersController.cs",
               "RelativeToolTip": "APIGateway\\Controllers\\TeachersController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAAAAAA",
+              "ViewState": "AQIAADAAAAAAAAAAAAAowF0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-05T16:26:28.827Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 8,
+              "Title": "Activity.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Obdaniste\\APIGateway\\APIGateway\\Models\\Activity.cs",
+              "RelativeDocumentMoniker": "APIGateway\\Models\\Activity.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Obdaniste\\APIGateway\\APIGateway\\Models\\Activity.cs",
+              "RelativeToolTip": "APIGateway\\Models\\Activity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T16:10:58.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Event.cs",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Obdaniste\\APIGateway\\APIGateway\\Models\\Event.cs",
               "RelativeDocumentMoniker": "APIGateway\\Models\\Event.cs",
@@ -238,15 +138,125 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Activity.cs",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Obdaniste\\APIGateway\\APIGateway\\Models\\Activity.cs",
-              "RelativeDocumentMoniker": "APIGateway\\Models\\Activity.cs",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Obdaniste\\APIGateway\\APIGateway\\Models\\Activity.cs",
-              "RelativeToolTip": "APIGateway\\Models\\Activity.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Obdaniste\\APIGateway\\APIGateway\\Program.cs",
+              "RelativeDocumentMoniker": "APIGateway\\Program.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Obdaniste\\APIGateway\\APIGateway\\Program.cs",
+              "RelativeToolTip": "APIGateway\\Program.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAowHQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T16:10:58.005Z"
+              "WhenOpened": "2025-01-05T16:09:38.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Urls.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Obdaniste\\APIGateway\\APIGateway\\Urls.cs",
+              "RelativeDocumentMoniker": "APIGateway\\Urls.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Obdaniste\\APIGateway\\APIGateway\\Urls.cs",
+              "RelativeToolTip": "APIGateway\\Urls.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T16:08:18.319Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Obdaniste\\APIGateway\\APIGateway\\appsettings.json",
+              "RelativeDocumentMoniker": "APIGateway\\appsettings.json",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Obdaniste\\APIGateway\\APIGateway\\appsettings.json",
+              "RelativeToolTip": "APIGateway\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-05T16:08:56.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChildrenController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Obdaniste\\APIGateway\\APIGateway\\Controllers\\ChildrenController.cs",
+              "RelativeDocumentMoniker": "APIGateway\\Controllers\\ChildrenController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Obdaniste\\APIGateway\\APIGateway\\Controllers\\ChildrenController.cs",
+              "RelativeToolTip": "APIGateway\\Controllers\\ChildrenController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAqwEsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T16:25:31.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EventController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Obdaniste\\APIGateway\\APIGateway\\Controllers\\EventController.cs",
+              "RelativeDocumentMoniker": "APIGateway\\Controllers\\EventController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Obdaniste\\APIGateway\\APIGateway\\Controllers\\EventController.cs",
+              "RelativeToolTip": "APIGateway\\Controllers\\EventController.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAqwFIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T16:44:17.337Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "APIGateway.csproj",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Obdaniste\\APIGateway\\APIGateway\\APIGateway.csproj",
+              "RelativeDocumentMoniker": "APIGateway\\APIGateway.csproj",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Obdaniste\\APIGateway\\APIGateway\\APIGateway.csproj",
+              "RelativeToolTip": "APIGateway\\APIGateway.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-22T10:32:01.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ActivitiesController.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Obdaniste\\APIGateway\\APIGateway\\Controllers\\ActivitiesController.cs",
+              "RelativeDocumentMoniker": "APIGateway\\Controllers\\ActivitiesController.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Obdaniste\\APIGateway\\APIGateway\\Controllers\\ActivitiesController.cs",
+              "RelativeToolTip": "APIGateway\\Controllers\\ActivitiesController.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAowF4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T16:16:32.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Obdaniste\\APIGateway\\APIGateway\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "APIGateway\\Models\\Teacher.cs",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Obdaniste\\APIGateway\\APIGateway\\Models\\Teacher.cs",
+              "RelativeToolTip": "APIGateway\\Models\\Teacher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-05T16:12:13.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "APIGateway.http",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Obdaniste\\APIGateway\\APIGateway\\APIGateway.http",
+              "RelativeDocumentMoniker": "APIGateway\\APIGateway.http",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Obdaniste\\APIGateway\\APIGateway\\APIGateway.http",
+              "RelativeToolTip": "APIGateway\\APIGateway.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-01-05T18:29:59.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Obdaniste\\APIGateway\\APIGateway\\Dockerfile",
+              "RelativeDocumentMoniker": "APIGateway\\Dockerfile",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Obdaniste\\APIGateway\\APIGateway\\Dockerfile",
+              "RelativeToolTip": "APIGateway\\Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-01-05T17:21:01.046Z"
             }
           ]
         }

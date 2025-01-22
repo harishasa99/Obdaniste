@@ -1,70 +1,117 @@
 ﻿using ChildService.Models;
 using ChildService.Services;
+using ChildService.Broker;
+using ChildService.DTOs;
 using Microsoft.AspNetCore.Mvc;
 
 namespace ChildService.Controllers
 {
     [ApiController]
-    [Route("api/[controller]")]
+    [Route("api/child")]
     public class ChildController : ControllerBase
     {
         private readonly ChildDataService _childDataService;
+        private readonly IMessageBroker _messageBroker;
 
-        public ChildController(ChildDataService childDataService)
+        public ChildController(ChildDataService childDataService, IMessageBroker messageBroker)
         {
             _childDataService = childDataService;
+            _messageBroker = messageBroker;
         }
 
         // GET /api/child
         [HttpGet]
-        public async Task<ActionResult<List<Child>>> GetAll()
+        public async Task<ActionResult<List<ChildReadDto>>> GetAll()
         {
             var children = await _childDataService.GetAllAsync();
-            if (children.Count == 0)
-                return NoContent(); // ili Ok([]), po izboru
+            var childrenDto = children.Select(c => new ChildReadDto
+            {
+                Id = c.Id,
+                Name = c.Name,
+                Age = c.Age,
+                Group = c.Group
+            }).ToList();
 
-            return Ok(children);
+            return Ok(childrenDto);
         }
 
         // GET /api/child/{id}
         [HttpGet("{id}")]
-        public async Task<ActionResult<Child>> Get(int id)
+        public async Task<ActionResult<ChildReadDto>> Get(int id)
         {
             var child = await _childDataService.GetAsync(id);
             if (child == null)
                 return NotFound();
 
-            return Ok(child);
+            var childDto = new ChildReadDto
+            {
+                Id = child.Id,
+                Name = child.Name,
+                Age = child.Age,
+                Group = child.Group
+            };
+
+            return Ok(childDto);
         }
 
         // POST /api/child
-        // Ovde očekujemo JSON sa "id" (int), "name", "age", "group"
         [HttpPost]
-        public async Task<IActionResult> Post([FromBody] Child newChild)
+        public async Task<IActionResult> Post([FromBody] ChildCreateDto childDto)
         {
-            // Ako koristite [ApiController], ASP.NET Core već radi ModelState validaciju pre poziva
             if (!ModelState.IsValid)
                 return BadRequest(ModelState);
 
-            // Upisujemo novo dete
+            var newChild = new Child
+            {
+                Name = childDto.Name,
+                Age = childDto.Age,
+                Group = childDto.Group
+            };
+
             await _childDataService.CreateAsync(newChild);
 
-            // Vraćamo 201 Created sa lokacijom GET rute za novo dete
+            // Kreiramo event za RabbitMQ
+            var childEvent = new ChildEventDto
+            {
+                Id = newChild.Id,
+                Name = newChild.Name,
+                Age = newChild.Age,
+                Group = newChild.Group,
+                EventType = "ChildCreated"
+            };
+            _messageBroker.Publish(childEvent);
+
             return CreatedAtAction(nameof(Get), new { id = newChild.Id }, newChild);
         }
 
         // PUT /api/child/{id}
         [HttpPut("{id}")]
-        public async Task<IActionResult> Update(int id, [FromBody] Child updatedChild)
+        public async Task<IActionResult> Update(int id, [FromBody] ChildUpdateDto childDto)
         {
-            var existing = await _childDataService.GetAsync(id);
-            if (existing == null)
+            if (!ModelState.IsValid)
+                return BadRequest(ModelState);
+
+            var existingChild = await _childDataService.GetAsync(id);
+            if (existingChild == null)
                 return NotFound();
 
-            // obavezno zadržimo isti Id
-            updatedChild.Id = id;
+            existingChild.Name = childDto.Name;
+            existingChild.Age = childDto.Age;
+            existingChild.Group = childDto.Group;
 
-            await _childDataService.UpdateAsync(id, updatedChild);
+            await _childDataService.UpdateAsync(id, existingChild);
+
+            // Kreiramo event za RabbitMQ
+            var childEvent = new ChildEventDto
+            {
+                Id = existingChild.Id,
+                Name = existingChild.Name,
+                Age = existingChild.Age,
+                Group = existingChild.Group,
+                EventType = "ChildUpdated"
+            };
+            _messageBroker.Publish(childEvent);
+
             return NoContent();
         }
 
@@ -72,11 +119,23 @@ namespace ChildService.Controllers
         [HttpDelete("{id}")]
         public async Task<IActionResult> Delete(int id)
         {
-            var existing = await _childDataService.GetAsync(id);
-            if (existing == null)
+            var existingChild = await _childDataService.GetAsync(id);
+            if (existingChild == null)
                 return NotFound();
 
             await _childDataService.RemoveAsync(id);
+
+            // Kreiramo event za RabbitMQ
+            var childEvent = new ChildEventDto
+            {
+                Id = id,
+                Name = existingChild.Name,
+                Age = existingChild.Age,
+                Group = existingChild.Group,
+                EventType = "ChildDeleted"
+            };
+            _messageBroker.Publish(childEvent);
+
             return NoContent();
         }
     }
